@@ -1,0 +1,15 @@
+@startuml
+
+skinparam monochrome true
+left to right direction
+actor Ahmed
+actor Aicha
+actor Karim
+actor Ibrahim
+actor Khalid
+actor Souad
+
+Ahmed  --  Aicha : > maried
+Karim  <-->  Ibrahim : friends
+Khalid <--  Souad : teaches 
+@enduml

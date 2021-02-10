@@ -1,0 +1,17 @@
+@startuml
+
+
+skinparam monochrome true
+left to right direction
+
+actor Person as A1
+actor System as A2
+usecase Registration as u1
+usecase Authentication as u2
+
+A1 -- u2
+A1 -- u1
+u2 -- A2
+u1 -- A2
+
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+
+
+skinparam monochrome true
+left to right direction
+
+class Human
+class Brain
+
+Human *-- Brain
+
+@enduml

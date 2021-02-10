@@ -1,0 +1,15 @@
+@startuml
+hide empty members
+hide circle
+
+skinparam monochrome true
+left to right direction
+
+class Course
+class Student
+class Teacher
+
+Course "0..*" o----o "1" Teacher
+Course "0..*" o----o "0..*" Student
+
+@enduml
