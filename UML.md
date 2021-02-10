@@ -10,6 +10,18 @@ footer: Taha Bouhsine
 ---
 
 # UML SMI5  
+<!-- 
+- lgoal ta3 SE
+- OOP ou les pricipes
+- lfer9 bin association, aggregation, w composition
+- w les diagram li kaynin 3ndna bi 3oujala
+- w semain jaya in chae allah n7awel ndir chi 7issa khra nsse7ou fiha l exam dl3am li fat.
+- anb9a nsste9bel les qst ta3koum hna li 3ndou chi sou2al yssewel ila mafhemch chi 7aja, mli nssali chi part ankhlli w9ita sghira bach ila matfehmatch chi 7aja n3awdha
+-->
+
+## Join this link
+
+## https://app.sli.do/event/ex3esarj
 
 ---
 
@@ -19,9 +31,26 @@ footer: Taha Bouhsine
 
 ![bg width:80%](modeling.png)
 
+<!-- 
+role ta3 software engineer houwa y7awel ycree wa7ed reality jdida mn reality li intale9 mnha, 
+- walakin houwa lewel kaykhessoou yfhem reality li houwa fiha
+- bach yfhemha khassou ycree des model, est alors creea wa7ed reality jdida
+- 3ad kay7awel ybesset awla ydir labstract ldik reality li creea b des models khriin
+- 3aaad kayfhem reality lewla li kan fiha mzyan
+ -->
+
 ---
 
 What, Why , How?
+
+<!-- ou fi lekher kay7awl yl9a bhadchi l2ajwiba ta3 3 lass2ila 
+Achnou?
+3lach?
+kifach?
+
+mli kayssali had les model kaykoun safi fhem reality dyalou ou wajed bach ybda lcode
+
+-->
 
 ---
 
@@ -31,10 +60,15 @@ What, Why , How?
 
 ---
 
+<!-- 
+mn bin l7wayj l2assasya li kat2amn bihoum had lparadigm awla namoudaj ta3 OOP
+houwa annaha kat3amel koulchi b7al objets ay achya2
+ -->
+
 Everything is an object
 
 ---
-
+<!-- W 3ndha des pricipes li katkhdem bihoum bach ttebe9 had lparadigm dyalha -->
 ### Principles of object-oriented programming
 
 ---
@@ -51,14 +85,14 @@ Question
 
 ![bg right ](abstract.jpeg)
 
----
-
-Question
-
----
 <!-- 
-    
+Mli kanchoufou l7wayj li 9damna koul 7aja kanbdaw n7awlou nl9aw chi 7aja bach nwessfouha, swa mn na7it chkel. Ta3ha, type ta3ha, awla mnach mssnou3a,
+
+Daba matalan lkrassa 3ndna lkrassa ta3 l7did ta3 lkhcheb ta3 lplasstik, walakin koulhoum krassa, hadi hya l abstraction,7na fi lkher kayhemna gha billa rah hadak koursi kan9drou nguelssou fou9ou
 -->
+
+---
+
 Objects in an OOP language provide an abstraction that hides the internal implementation details. Similar to the coffee machine in your kitchen, you just need to know which methods of the object are available to call and which input parameters are needed to trigger a specific operation. But you don’t need to understand how this method is implemented and which kinds of actions it has to perform to create the expected result.
 
 ---
@@ -69,9 +103,13 @@ Objects in an OOP language provide an abstraction that hides the internal implem
 
 ### Classification
 
+<!-- 
+3ad 3ndna 3awtani lkrassa tballi lvetrinat wkoulhoum kanjem3ouhoum fi fournitures hadi hya lclassification, y9drou ybanou likoum kaytchabhou mais rah chi mrtabt bchi fi had les principes
+-->
+
 ---
 
-Question
+Ask Question?
 
 ---
 
@@ -83,13 +121,18 @@ Question
 
 ![bg right width:100%](encapsu_meme.jpg)
 
+<!-- 
+Of coirse 3yitou makatssem3ou fi hadi w3yitou makatssem3ou fi l9wilbat w fi les capsule mais 3laaach, had l encapsulation kat9der awaln tproteger les donnees ta3na, w kat9der thenni dev mn bach yb9a 3aref gua3 les attribute li kaynin ou la valeur wella l etat li kayn fiha l object, houwa kay3ref gha les method, 3eyet lihoum ou khdmou lih tabaraka llah, makhdmouch lih dikssa3a kay9der yl9a lbug dghya bla mayberzet rassou
+
+ -->
+
 ---
 
 Question
 
 ---
 
- showcasing only the required things to the outside world while hiding the details. Continuing our example, Human Being's can talk, walk, hear, eat, but the details are hidden from the outside world. We can take our skin as the Abstraction factor in our case, hiding the inside mechanism.
+ showcasing only the required things to the outside world while hiding the details. Continuing our example, Human Being's can talk, walk, hear, eat, but the details are hidden from the outside world. We can take our skin as the Encapsulation factor in our case, hiding the inside mechanism.
 
 ---
 
@@ -99,6 +142,11 @@ Question
 
 ### Association (Relating)
 
+<!-- 
+Kanguoulou wa7ed associer m3a wa7ed wakha tkoun gha kat3arfou, wakha ykoun gha 9errak matalan awlla mataln 3chirek
+
+Katzid tspecify  had association ll aggregamli katl9a 3ndek chi 3ala9a watida m3a dak chekhss, matalan wella 3chirek 3chirtek, awla chi 7aja khra dakchi binatkoum massou9ich ana.
+ -->
 ---
 
 Question
@@ -115,6 +163,15 @@ Objects are classified and abstracted into classes. Classes don’t exist in iso
 
 ### Inheritance (Generalizing)
 
+<!-- 
+Wa7ed mn biin lprincipe lmouhimin fi oop, kat9der tl9a languages li ma3ndhomch lencapsulation matalan, mais ila makantch hadi rah gha kayde7kou 3la lwe9t ila gualou lik rah hadik language oop.
+
+7itach bssbabha kat9der tkhedem lpolymorph, l abstraction ou chi twacha khrin atfehmouhoum mn be3d
+
+Daba matalan koul wa7ed ach kay heriti mn walidih,kayn li wreth lflouss, zrou9ya dl3inin, sekkar, sguou3ya mouhim koul wa7ed ach khda, 
+
+ -->
+
 ---
 
 Question
@@ -128,6 +185,20 @@ Considering HumanBeing a class, which has properties like hands, legs, eyes etc,
 ### Polymorphism (Executing)
 
 ![bg right width:90%](poly_meme.jpg)
+
+<!-- 
+Koul wa7ed ach mrebbi
+Chi mchach chi klab chi 9rouda
+Linfrid koul wa7ed fikoum mcha traina b l7ayaqan dyalou bach mli yguoul lih dwi, yguoul chi 7aja, 
+Mli nji ana , makayhemnich achmen type l7ayawan dyalk, li kayhemni houwa mli nguoul lih dwi yguoul li chi 7aja,
+
+Koulhoum 7ayawanat
+Walaki Koul wa7ed kifach kayguoul liha
+
+Kan9drou nwsslou liha b l inheritance w b abstraction
+
+
+ -->
 
 ---
 
@@ -154,12 +225,21 @@ And if there is a defined way of walking, but I wish to walk differently, but us
 ### Class
 
 ![bg right width:100%](classes_dino_meme.png)
+<!-- 
+bnsba ll class n9drou n3tabrouha hya lcode adn ta3 les objet li kaytcreeaw mnha, bach we9t l execution mli ybghi lcompilateur ykhdem yl9a lmoule awla l9alb bach y9der y9ad douk les objet li bgha
+-->
 
 ---
 
+<!-- 
+mital daba lclass ta3 human being li kat3eref lina ach kaykhess ykoun 3nd had lhuman being bach ykoun human being, rjlin lidin 3inin rass ilakh
+-->
 Here we can take Human Being as a class. A class is a blueprint for any functional entity which defines its properties and its functions. Like Human Being, having body parts, and performing various actions.
 
 ---
+<!-- 
+ou kimma guelna OOP kat3taber koulchi object, 
+ -->
 
 ### Objects
 
@@ -167,11 +247,15 @@ Here we can take Human Being as a class. A class is a blueprint for any function
 
 ---
 
+<!-- 
+matalan ana smeyti taha, ana objet ta3 class human awla human. dik lhuman being , rajl, mra kan3tabrouh gha wa7ed lkind awla naw3, nta w ana w nass lkhrin gha wa7ed lform mtjessda ta3 dak naw3. 3ndna l existance ta3na physique, amma lclass hya gha wa7ed definition logic, ou 7na houma les object
+ -->
+
 My name is Taha, and I am an instance/object of class Male. When we say, Human Being, Male or Female, we just mean a kind, you, your friend, me we are the forms of these classes. We have a physical existence while a class is just a logical definition. We are the objects.
 
 ---
 
-Questions?
+Ask Questions?
 
 ---
 
@@ -186,7 +270,11 @@ Questions?
 ---
 
 ## Association
+<!-- 
+Kanguoulou wa7ed associer m3a wa7ed wakha tkoun gha kat3arfou, wakha ykoun gha 9errak matalan awlla mataln 3chirek
 
+Katzid tspecify  had association ll aggregamli katl9a 3ndek chi 3ala9a watida m3a dak chekhss, matalan wella 3chirek 3chirtek.
+-->
 ---
 
 <!-- ri7t che7ma fi cha9our -->
@@ -219,6 +307,11 @@ Ask Questions?
 ---
 
 ## Agregation: Has-A
+
+<!-- 
+Bach tfehmou l aggregarion mzyan, nakhdou example ta3 tonobila, tonobila katkoun 3ndha rwayd donc kan9drou nguoulou tonobile made of 4 rwayd
+Walakin kat7ewel l composition ila jab llah l9ina billa tonobil mzdyiin m3aha rwayd ou makanl9awhoumcb kaytba3ou bou7dhum, amma bnnssba lina kan9drou nchriw rwayed w nchriw jaj ou dakchi
+-->
 
 ---
 An aggregation relationship is a specialized form of association. In aggregation, classes are related more closely to each other than in an association relationship. Aggregation can be described as a whole–part relationship wherein an entity is “made up of” or “composed of” other entities, or classes.
@@ -257,6 +350,12 @@ Ask Questions?
 
 ## Composition: part-of
 
+<!-- 
+Daba 3ndna ka mital, human compose of brain،
+Nhar kantzadou, kantzadou biih, 
+So ila jab llah 9telna dak lhuman being, ghadi ymout m3ah ta lbrain, ou ila jab llah 7eyedna lmoukhlchi wa7ed rah may9derch y3ich, bla manjebdou chi nass bach mayt9el9ouch 3lina s7ab tik tok 
+-->
+
 ---
 
 ![bg width:70%](comp_diag.png)
@@ -293,14 +392,6 @@ Ask Questions?
 
 ---
 
-## Association classes
-
----
-
-![width:100%](association_classes.png)
-
----
-
 ## Generalization/Specialization
 
 ---
@@ -324,6 +415,19 @@ Ask Questions?
 ## Polymorphism
 
 ![bg right width:100%](polymorph_meme.jpeg)
+
+<!-- 
+Koul wa7ed ach mrebbi
+Chi mchach chi klab chi 9rouda
+Linfrid koul wa7ed fikoum mcha traina b l7ayaqan dyalou bach mli yguoul lih dwi, yguoul chi 7aja, 
+Mli nji ana , makayhemnich achmen type l7ayawan dyalk, li kayhemni houwa mli nguoul lih dwi yguoul li chi 7aja,
+
+Koulhoum 7ayawanat
+Walaki Koul wa7ed kifach kayguoul liha
+
+Kan9drou nwsslou liha b l inheritance w b abstraction
+
+-->
 
 ---
 
@@ -357,6 +461,14 @@ Ask Questions?
             chwa.speak();
         }
     }
+
+---
+
+## Association classes
+
+---
+
+![width:100%](association_classes.png)
 
 ---
 
